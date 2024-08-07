@@ -1,1 +1,1 @@
-# -Mindbox
+# Mindbox
